@@ -1,5 +1,4 @@
 export default function Player({ link, title }) {
-    console.log(link);
     return (
         <iframe
             width="100%"
